@@ -12,5 +12,5 @@ Analysis of Microsoft using Stocker and making plots for observations
 ![Microsoft](model.png)
 
 ![Microsoft](prediction.png)
-![](trend.png")
+![](trend.png)
 
